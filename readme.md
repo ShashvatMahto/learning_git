@@ -24,3 +24,5 @@ Famous Vcs:
 this is use if you want to add files one by one
 
 -- git add . this command will add all the files directly
+
+4. git commit is basically a snapshot of the staged changes i.e whatever changes we have done
