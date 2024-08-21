@@ -26,3 +26,17 @@ this is use if you want to add files one by one
 -- git add . this command will add all the files directly
 
 4. git commit is basically a snapshot of the staged changes i.e whatever changes we have done
+
+5. how to create multiple branch 
+-- git brach <brachNameYouWantToCretae>
+
+6. how to check how many branches are present?
+-- git branch 
+
+7. how to move between braches
+-- git checkout <branchName>
+
+8. how to delete a branch?
+-- git branch --delete <brachName>
+-- git branch -D <branchName>
+
